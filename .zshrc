@@ -11,7 +11,7 @@ export LC_ALL='en_US.UTF-8'
 export TERM=xterm-256color
 
 ##### Zsh/Oh-my-Zsh Configuration
-export ZSH="/root/.oh-my-zsh"
+export ZSH="~/.oh-my-zsh"
 
 ZSH_THEME="powerlevel10k/powerlevel10k"
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting )
